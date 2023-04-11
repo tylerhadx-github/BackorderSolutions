@@ -32,6 +32,12 @@
             Backorder Request
           </v-btn>
         </v-col>
+        <v-col cols="auto">
+
+    <v-btn to="/ContactUs"  variant="flat" color="black" class="ml-2">
+      Contact Us
+    </v-btn>
+        </v-col>
       </v-row>
     </v-responsive>
   </v-container>
