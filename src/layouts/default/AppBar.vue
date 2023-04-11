@@ -8,11 +8,11 @@
 
     <v-app-bar-title> </v-app-bar-title>
     <v-spacer></v-spacer>
-    <v-btn to="/Request" min-width="228" size="x-large" variant="flat" color="#5473fc">
+    <v-btn to="/Request"  variant="flat" color="#5473fc">
       Backorder Request
     </v-btn>
 
-    <v-btn to="/ContactUs" min-width="228" size="x-large" variant="flat" color="black" class="ml-2">
+    <v-btn to="/ContactUs"  variant="flat" color="black" class="ml-2">
       Contact Us
     </v-btn>
   </v-app-bar>
