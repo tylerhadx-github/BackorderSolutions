@@ -34,7 +34,8 @@
         </v-col>
         <v-col cols="auto">
 
-    <v-btn to="/ContactUs"  variant="flat" color="black" class="ml-2">
+    <v-btn to="/ContactUs"              size="x-large"
+ variant="flat" color="black" class="ml-2">
       Contact Us
     </v-btn>
         </v-col>
