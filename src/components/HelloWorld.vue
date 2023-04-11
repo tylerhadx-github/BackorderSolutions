@@ -22,7 +22,7 @@
         production processes.
         <br /><br />
         Where we specialize in providing solutions for
-        disposal items on backorder in the medical field. Our team works with
+         products on backorder in the medical field. Our team works with
         manufacturers and suppliers worldwide to ensure that you have access to
         the products you need in a timely manner.<br /><br />
         If you have a product on backorder, visit our "Backorder Requests" page
