@@ -2,7 +2,7 @@
   <v-container class="fill-height">
     <v-responsive class="d-flex align-center text-center fill-height">
       <div class="font-weight-medium mb-n1">Welcome to</div>
-      <v-img contain height="400" src="@/assets/intiallogo.jpg" />
+      <v-img contain height="400" src="@/assets/logo.jpg" />
       <div class="py-1" />
 
       <div class="font-weight-bold mb-n1">
